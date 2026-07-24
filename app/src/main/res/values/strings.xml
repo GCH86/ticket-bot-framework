@@ -7,4 +7,6 @@
     <string name="status_ready">准备就绪</string>
     <string name="status_monitoring">监听中...</string>
     <string name="status_stopped">已停止</string>
+    <string name="total_events">总票务事件</string>
+    <string name="performance_stats">性能统计</string>
 </resources>
